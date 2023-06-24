@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Devgulf.com</title>
+    <link>https://devgulf.com/categories/</link>
+    <description>Recent content in Categories on Devgulf.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 May 2023 21:49:07 +0100</lastBuildDate><atom:link href="https://devgulf.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trends</title>
+      <link>https://devgulf.com/categories/trends/</link>
+      <pubDate>Wed, 10 May 2023 21:49:07 +0100</pubDate>
+      
+      <guid>https://devgulf.com/categories/trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://devgulf.com/categories/development/</link>
+      <pubDate>Tue, 09 May 2023 22:43:00 +0100</pubDate>
+      
+      <guid>https://devgulf.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>https://devgulf.com/categories/startup/</link>
+      <pubDate>Tue, 09 May 2023 19:18:47 +0100</pubDate>
+      
+      <guid>https://devgulf.com/categories/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSS</title>
+      <link>https://devgulf.com/categories/oss/</link>
+      <pubDate>Sat, 06 May 2023 01:01:14 +0100</pubDate>
+      
+      <guid>https://devgulf.com/categories/oss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinion</title>
+      <link>https://devgulf.com/categories/opinion/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devgulf.com/categories/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://devgulf.com/categories/blog/</link>
+      <pubDate>Wed, 03 May 2023 00:55:07 +0100</pubDate>
+      
+      <guid>https://devgulf.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

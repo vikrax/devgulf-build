@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSS on Devgulf.com</title>
+    <link>https://devgulf.com/categories/oss/</link>
+    <description>Recent content in OSS on Devgulf.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 May 2023 01:01:14 +0100</lastBuildDate><atom:link href="https://devgulf.com/categories/oss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Best Open-Source Video Editors for 2023</title>
+      <link>https://devgulf.com/oss/5-best-open-source-video-editors-for-2023/</link>
+      <pubDate>Sat, 06 May 2023 01:01:14 +0100</pubDate>
+      
+      <guid>https://devgulf.com/oss/5-best-open-source-video-editors-for-2023/</guid>
+      <description>The open-source video editor landscape is constantly evolving, and 2023 promises to be an exciting year for those looking to create high-quality videos with free software.</description>
+    </item>
+    
+  </channel>
+</rss>

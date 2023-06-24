@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source AI on Devgulf.com</title>
+    <link>https://devgulf.com/tags/open-source-ai/</link>
+    <description>Recent content in Open Source AI on Devgulf.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 May 2023 21:49:07 +0100</lastBuildDate><atom:link href="https://devgulf.com/tags/open-source-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Open Source AI: Running the Vicuna Model on Your Local Computer</title>
+      <link>https://devgulf.com/oss/open-source-ai-running-the-vicuna-on-local-computer/</link>
+      <pubDate>Wed, 10 May 2023 21:49:07 +0100</pubDate>
+      
+      <guid>https://devgulf.com/oss/open-source-ai-running-the-vicuna-on-local-computer/</guid>
+      <description>Open source AI software has given individuals and companies the power to create intelligent systems that can solve complex problems and improve the way we live and work.</description>
+    </item>
+    
+  </channel>
+</rss>
